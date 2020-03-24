@@ -1,0 +1,316 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    height: 4830px;
+}
+
+
+/*-- Start Nav Bar --*/
+
+.navbar-brand img{
+    width: 100px;
+}
+.navbar-right img{
+    width:11px ;
+    margin: 5px;
+}
+.navbar-right .img2{
+    width: 60px;
+    margin: 0px;
+}
+.navbar-right .img3 {
+    width: 100px;
+   margin-top: -3px;
+}
+.navbar-collapse ul li.li1{
+    padding-left: 40px;
+}
+.navbar-collapse ul li.li2{
+    padding-left: 40px;
+}
+.navbar-collapse ul li.li3{
+    padding-left: 40px;
+}
+/*-- End Nav Bar --*/
+
+
+/*-- Start Section 1 --*/
+.section1{
+    padding-bottom: 0px;
+}
+.section1 h1{
+    color: rgb(96, 42, 146);
+    line-height: 70px;
+    font-size: 60px;
+}
+.section1 p{
+    color:#9a9a9a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+.section1 .Asset5{
+  height: 45px;
+}
+.section1 .Asset4{
+    width: 659px;
+}
+img.space{
+    padding-top: 40px;
+    width: 130px;
+    margin: 50px 50px 50px 460px;
+}
+/*-- End Section 1 --*/
+
+
+/*-- Start Section 2 --*/
+.section2 h1{
+    text-align: center;
+    color: rgb(96, 42, 146);
+}
+.section2 h2{
+    text-align: center;
+    color: rgb(96, 42, 146);
+    line-height: 40px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.section2 .Create{
+    padding-top: 60px; 
+}
+.section2 .Meet{
+    padding-top: 68px; 
+}
+.section2 .Enjoy{
+    padding-top: 70px; 
+}
+.section2 .row{
+      margin: 125px -7px 0px 100px;
+}
+.section2 img{
+    width: 250px;
+}
+.section2 p{
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 100px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #9a9a9a;
+}
+/*-- End Section 2 --*/
+
+
+/*-- Start Section 3 --*/
+.section3{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.section3 .space2{
+    margin-left:0px;
+    width: 150px;
+}
+.section3 .driveOn{
+    margin-top:-70px;
+    margin-left: -104px;
+    float: left;
+    width: 620px;
+}
+.section3 p{
+    color:#9a9a9a;
+    margin-top: 100px;
+    margin-left: 515px;
+    font-size: 19px;
+}
+.section3 h2{
+    color:#9a9a9a;
+    font-size: 19px;
+    margin-left: 515px;
+    margin-top: 36px;
+}
+.section3 h3{
+    font-size: 20px;
+    color:rgb(36, 128, 204);
+    margin-left: 515px;
+    margin-top: 36px;
+}
+/*-- End Section 3 --*/
+
+
+/*-- Start Section 4 --*/
+.section4 .commitment{
+    margin-top: -243px;
+    margin-right: -105px;
+    float: right;
+    width: 450px;
+}
+.section4 .space3{
+    margin-top: 160px;
+    width:150px ;
+}
+.section4 h1{
+    color:rgb(96, 42, 146);
+    margin-top: 63px;
+    margin-bottom: 63px;
+}
+.section4 p{
+    color: #9a9a9a;
+}
+.section4 p span a{
+    color: rgb(96, 42, 146);
+    text-decoration: none;
+    display: inline-block;
+}
+.section4 h3{
+    color:rgb(72, 117, 243) ;
+}
+.section4 .space4{
+    width: 37px;
+    height: 5px;
+    margin-left: 351px;
+    margin-top: -49px;
+}
+/*-- End Section 4 --*/
+
+
+/*-- Start Section 5 --*/
+.section5{
+    background:url('../pic/Asset 15.jpg') center no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    width: 100%;
+    height: 700px;
+}
+.section5 h1{
+    color:rgb(75, 9, 138);
+    margin-left:522px; 
+    margin-top:264px;
+    font-size: 33px;
+}
+.section5 .android{
+    width: 200px;
+    margin-left: 522px;
+    margin-top: 38px;
+}
+.section5 .ios{
+    width: 200px;
+    margin-left: 773px;
+    margin-top: -85px;
+}
+/*-- End Section 5 --*/
+
+
+/*-- Start Section 6 --*/
+.section6{
+    padding-bottom: 100px;
+}
+.section6 .h21{
+    margin-top: 80px;
+    margin-left: 75px;
+    color: rgb(96, 42, 146);
+    line-height: 38px;
+}
+.section6 .Arrow1{
+    width: 40px;
+    margin-left: 385px;
+    margin-top: -123px;
+}
+.section6 .h22{
+    margin-top: -110px;
+    margin-left: 570px;
+    color: rgb(96, 42, 146);
+    line-height: 38px;
+}
+.section6 .Arrow2{
+    width: 40px;
+    margin-left: 920px;
+    margin-top: -123px;
+}
+.section6 .space5{
+    width: 126px;
+    margin-left: 75px;
+}
+.section6 .space6{
+    width: 126px;
+    margin-left: 363px;
+}
+/*-- End Section 6 --*/
+
+
+/*-- Start Section 7 --*/
+.section7{
+    background: url('../pic/Asset 32.png') center center no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    max-width:100%;
+    height: 650px;
+}
+.section7 .last{
+width: 130px; 
+margin-bottom: -238px;
+margin-left: 150px;   
+}
+.section7 ul{
+    list-style: none;
+}
+.section7 .alama{
+width: 23px;
+margin-bottom: -305px;
+margin-left: 155px; 
+}
+.section7 .Resoultion{
+    margin-top: 130px;
+    margin-left:190px;
+    color: rgb(241, 233, 233);
+    font-size: 16px;
+}
+.section7 .massage{
+    width: 23px;
+margin-bottom: -75px;
+margin-left: 155px; 
+}
+.section7 .English{
+    margin-top: 15px;
+    margin-left:190px;
+    color: rgb(241, 233, 233);
+    font-size: 16px;
+}
+.section7 .main2{
+    color: white;
+    margin-left: -100px;
+    margin-top: 110px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.section7 .col-lg-3 ul .allone{
+    color: rgb(241, 233, 233);
+    margin-left: -100px;
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+.section7 .space7{
+    width: 1190px;
+    padding-top: 95px;
+    padding-left: 170px;
+}
+.section7 .inc{
+    color: rgb(241, 233, 233);
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 168px;
+}
+.section7 .icons{
+    margin-left: 1024px;
+    margin-top: -25px;
+}
+.section7 .icon{
+    margin-right: 20px;
+}
+/*-- End Section 7 --*/
